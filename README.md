@@ -5,9 +5,9 @@
 
 ### My Qiita work
 </div>
-<p><a href="http://qiita.com/ryo2132"><img src="https://qiita-badge.apiapi.app/s/ryo2132/posts.svg" alt="My Qiita posts"></a>
-<a href="http://qiita.com/ryo2132"><img src="https://qiita-badge.apiapi.app/s/ryo2132/contributions.svg" alt="My Qiita contributions"></a>
-<a href="http://qiita.com/ryo2132"><img src="https://qiita-badge.apiapi.app/s/ryo2132/followers.svg" alt="My Qiita followers"></a></p>
+<p><a href="http://qiita.com/ssakihara"><img src="https://qiita-badge.apiapi.app/s/ssakihara/posts.svg" alt="My Qiita posts"></a>
+<a href="http://qiita.com/ssakihara"><img src="https://qiita-badge.apiapi.app/s/ssakihara/contributions.svg" alt="My Qiita contributions"></a>
+<a href="http://qiita.com/ssakihara"><img src="https://qiita-badge.apiapi.app/s/ssakihara/followers.svg" alt="My Qiita followers"></a></p>
 https://qiita.com/ssakihara
 </div>
 
