@@ -1,7 +1,7 @@
 ### Summary
-<div><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssakihara&count_private=true&show_icons=true" />
-</a></div>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssakihara)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssakihara)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Qiita work
 </div>
