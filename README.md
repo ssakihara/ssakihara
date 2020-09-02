@@ -1,10 +1,5 @@
 ### Summary
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssakihara&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssakihara&repo=convoychat" />
-</a>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssakihara)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Qiita work
 </div>
